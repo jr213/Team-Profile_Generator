@@ -1,0 +1,12 @@
+header{
+    height: 75px;
+    background-color: rgb(32, 138, 32);
+    color: white;
+
+}
+h1{
+    margin-left: 35%;
+}
+.card-body{
+    background-color: bisque;
+}
